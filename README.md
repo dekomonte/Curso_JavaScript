@@ -1,4 +1,4 @@
-# Curso_JavaScript
+# Curso_JavaScript/Referencias_JavaScript
 Repositório do [Curso Web Moderno Completo com JavaScript + Projetos](https://www.udemy.com/course/curso-web/learn/lecture/8777988?start=15#overview). 
 
 #### Assuntos
@@ -15,5 +15,3 @@ Repositório do [Curso Web Moderno Completo com JavaScript + Projetos](https://w
 * Webpack
 * Gulp
 * MySQL
-
-# Referencias_JavaScript
