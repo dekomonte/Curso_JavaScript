@@ -15,3 +15,5 @@ Repositório do [Curso Web Moderno Completo com JavaScript + Projetos](https://w
 * Webpack
 * Gulp
 * MySQL
+
+# Referencias_JavaScript
