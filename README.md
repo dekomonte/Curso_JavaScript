@@ -1,3 +1,3 @@
-# Referencias_JavaScript
+# JavaScript_Referencias
 
 Referências de sintaxe da linguagem JavaScript.
